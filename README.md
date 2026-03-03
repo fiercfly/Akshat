@@ -1,37 +1,64 @@
-# Hi, I'm Akshat Jain
+# Akshat Jain
 
-Full Stack Developer with production experience building real-time browser systems and backend rendering pipelines.
+Full Stack Developer building real-time browser systems and scalable backend APIs.
 
-## 🔧 What I Work On
+I focus on production-grade web applications with strong backend foundations, clean API design, and performance-driven architecture.
 
-- Scalable REST API architectures
+---
+
+## Engineering Focus
+
+- REST API design and backend architecture
 - Real-time interactive web systems
 - AI-assisted data processing pipelines
-- Cloud-based rendering workflows
-- Authentication & database design
+- Authentication and database modeling
+- Performance optimization across frontend and backend
 
-## 🚀 Featured Projects
+---
+
+## Featured Projects
 
 ### 🎬 VidBuilder
 Full-stack browser-based video editor with multi-track timeline and cloud MP4 rendering.
-React + Node.js + Remotion + Konva
 
-### 🛒 HomeElectrics
-Production-style e-commerce platform with authentication and Stripe integration.
-MERN stack + JWT + Payment Processing
+React · Node.js · Remotion · Konva  
+Live: https://vid-builder.vercel.app  
+Repo: https://github.com/fiercfly/vidBuilder
+
+---
 
 ### 🥩 ProteinHunt
-AI-powered deal aggregation platform using Reddit API + Groq AI parsing.
-Node.js + MongoDB + AI data normalization
+AI-powered deal aggregation platform using Reddit API ingestion and Groq-based parsing pipeline.
 
-## 🧠 Engineering Focus
+Node.js · Express · MongoDB · React  
+Live: https://proteinHunt.vercel.app  
+Repo: https://github.com/fiercfly/proteinHunt
 
-- System performance optimization
-- Clean API design
-- Data modeling
-- Production-ready code standards
-- Edge-case driven implementation
+---
 
-## 📫 Contact
+### 🛒 HomeElectrics
+MERN e-commerce platform with JWT authentication and Stripe payment integration.
+
+MongoDB · Express · React · Node.js  
+Live: https://home-electrics.vercel.app  
+Repo: https://github.com/fiercfly/HomeElectrics
+
+---
+
+## Tech Stack
+
+Backend  
+Node.js · Express · MongoDB · PostgreSQL · REST APIs · JWT Authentication
+
+Frontend  
+React · Next.js · Tailwind CSS · Konva
+
+Infrastructure  
+Vercel · Render · GitHub Actions · CI/CD
+
+---
+
+## Contact
+
 Email: akshatbirawat@gmail.com  
 LinkedIn: https://linkedin.com/in/kshtjn
